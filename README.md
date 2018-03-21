@@ -11,5 +11,5 @@ The game story will also be written by myself.
 ## Roadmap
 
 ### Short term goals
-1. April 2018
-- [ ] Implement functioning GUI for battlesystem
+- April 2018
+  - [ ] Implement functioning GUI for battlesystem
